@@ -1,4 +1,4 @@
-##Test Summary Report – Search Functionality
+## Test Summary Report – Search Functionality
 
 **Project Name:** OpenCart Manual Testing
 **Module:** Search
